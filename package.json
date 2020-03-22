@@ -1,0 +1,17 @@
+{
+  "name": "covidcasesanalyzer",
+  "version": "1.0.0",
+  "description": "This will analyze covid cases ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dinanjanag",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.7.0",
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.15",
+    "simple-git": "^1.132.0"
+  }
+}
